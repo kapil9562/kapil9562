@@ -13,10 +13,10 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kapil9562&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 # 🚀 Featured Projects:
-## 🌐 Portfolio Website
+## 🌐 Portfolio Website:
 🔗 Live : https://kapil-adhikari.onrender.com
 
-## 🛒 E-commerce Website
+## 🛒 E-commerce Website:
 🔗 Live : https://myavenza.onrender.com
 
 ---
