@@ -12,8 +12,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=kapil9562&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kapil9562&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-# 🚀 Featured Projects
-
+# 🚀 Featured Projects:
 ## 🌐 Portfolio Website
 🔗 Live : https://kapil-adhikari.onrender.com
 
