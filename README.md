@@ -15,10 +15,10 @@
 # 🚀 Featured Projects
 
 ## 🌐 Portfolio Website
-🔗 Live Demo: https://kapil-adhikari.onrender.com
+🔗 Live : https://kapil-adhikari.onrender.com
 
 ## 🛒 E-commerce Website
-🔗 Live Demo: https://myavenza.onrender.com
+🔗 Live : https://myavenza.onrender.com
 
 ---
 [![](https://visitcount.itsvg.in/api?id=kapil9562&icon=0&color=0)](https://visitcount.itsvg.in)
