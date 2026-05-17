@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently working on **React Projects**<br>- 🌱 I’m learning **Full Stack Development**<br>- 💬 Ask me about **Html, Css, React, JavaScript, Tailwind,  NodeJs, ExpressJs, SQL, mongoDB, Git/GitHub**<br>- 📫 How to reach me **adhikarikapil389@gmail.com**
+- 🔭 I’m currently working on **React Projects**<br>- 🌱 I’m learning **Web Development**<br>- 💬 Ask me about **Html, Css, React, JavaScript, Tailwind,  NodeJs, ExpressJs, SQL, mongoDB, Git/GitHub**<br>- 📫 How to reach me **adhikarikapil389@gmail.com**
 
 
 ## 🌐 Connect With Me:
