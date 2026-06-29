@@ -18,6 +18,9 @@
 ## 🛒 E-commerce Website:
 🔗 Live : https://myavenza.onrender.com
 
+## 🛒 E-commerce Admin_Panel:
+🔗 Live : https://myavenza-admin.onrender.com
+
 ---
 [![](https://visitcount.itsvg.in/api?id=kapil9562&icon=0&color=0)](https://visitcount.itsvg.in)
 
