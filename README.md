@@ -5,19 +5,15 @@
 <br/>
 
 <a href="https://kapil-adhikari.onrender.com" target="_blank">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-2563EB?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"/>
 </a>
 
 <a href="https://www.linkedin.com/in/kapil-adhikari9562" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="https://instagram.com/the_nameiskapil" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://github.com/kapil9562" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 
 <br/>
@@ -173,16 +169,16 @@ alt="Kapil's GitHub Streak"
 
 <div align="center">
 
+<a href="https://kapil-adhikari.onrender.com" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+</a>
+
 <a href="https://www.linkedin.com/in/kapil-adhikari9562" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="https://instagram.com/the_nameiskapil" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://kapil-adhikari.onrender.com" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 
 <br/><br/>
