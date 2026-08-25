@@ -176,19 +176,6 @@ Admin dashboard for managing products, inventory, users and application data.
 
 ---
 
-<h2>🧠 Coding Journey</h2>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/💻_Problem_Solving-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/☕_Java-ED8B00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🧩_DSA-2563EB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🚀_Full--Stack-06B6D4?style=for-the-badge"/>
-
-</div>
-
----
-
 <h2>🎯 What I Like Building</h2>
 
 <table>
