@@ -76,7 +76,7 @@ Personal developer portfolio showcasing my skills, projects and development jour
 
 <br/><br/>
 
-<a href="https://kapil-adhikari.onrender.com">
+<a href="https://kapil-adhikari.onrender.com" target="_blank">
 <img src="https://img.shields.io/badge/🚀%20Live%20Demo-2563EB?style=for-the-badge"/>
 </a>
 
@@ -96,7 +96,7 @@ Full-stack e-commerce platform with authentication, products, cart, wishlist and
 
 <br/><br/>
 
-<a href="https://myavenza.onrender.com">
+<a href="https://myavenza.onrender.com" target="_blank">
 <img src="https://img.shields.io/badge/🛍️%20Live%20Demo-7C3AED?style=for-the-badge"/>
 </a>
 
@@ -116,7 +116,7 @@ Admin dashboard for managing products, inventory, users and application data.
 
 <br/><br/>
 
-<a href="https://myavenza-admin.onrender.com">
+<a href="https://myavenza-admin.onrender.com" target="_blank">
 <img src="https://img.shields.io/badge/⚡%20Live%20Demo-06B6D4?style=for-the-badge"/>
 </a>
 
