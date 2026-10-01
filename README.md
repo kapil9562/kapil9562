@@ -63,13 +63,54 @@ modern, responsive and scalable applications.
 <table>
 <tr>
 
-<td width="33%" align="center">
+<td width="50%" align="center">
+
+<h3>💬 Zenviq – AI Chat App</h3>
+
+<p>
+Real-time chat application with AI assistant, private & group messaging,
+online/offline presence, encrypted messages and friend system.
+</p>
+
+<!-- 📸 Preview Image -->
+<img
+  src="./screenshots/zenviq.png"
+  alt="Zenviq Chat App Preview"
+  width="100%"
+/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI-8B5CF6?style=flat-square&logo=google&logoColor=white"/>
+
+<br/><br/>
+
+<a href="https://zenviq-in.onrender.com" target="_blank">
+<img src="https://img.shields.io/badge/🚀%20Live%20Demo-2563EB?style=for-the-badge"/>
+</a>
+
+</td>
+
+<td width="50%" align="center">
 
 <h3>🌐 Portfolio</h3>
 
 <p>
 Personal developer portfolio showcasing my skills, projects and development journey.
 </p>
+
+<!-- 📸 Preview Image -->
+<img
+  src="./screenshots/portfolio.png"
+  alt="Portfolio Preview"
+  width="100%"
+/>
+
+<br/><br/>
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
@@ -82,13 +123,27 @@ Personal developer portfolio showcasing my skills, projects and development jour
 
 </td>
 
-<td width="33%" align="center">
+</tr>
+
+<tr>
+
+<td width="50%" align="center">
 
 <h3>🛒 Avenza Store</h3>
 
 <p>
-Full-stack e-commerce platform with authentication, products, cart, wishlist and checkout flow.
+Full-stack e-commerce platform with authentication, products, cart,
+wishlist and checkout flow.
 </p>
+
+<!-- 📸 Preview Image -->
+<img
+  src="./screenshots/avenza-store.png"
+  alt="Avenza Store Preview"
+  width="100%"
+/>
+
+<br/><br/>
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
@@ -102,13 +157,22 @@ Full-stack e-commerce platform with authentication, products, cart, wishlist and
 
 </td>
 
-<td width="33%" align="center">
+<td width="50%" align="center">
 
 <h3>⚙️ Avenza Admin</h3>
 
 <p>
 Admin dashboard for managing products, inventory, users and application data.
 </p>
+
+<!-- 📸 Preview Image -->
+<img
+  src="./screenshots/avenza-admin.png"
+  alt="Avenza Admin Preview"
+  width="100%"
+/>
+
+<br/><br/>
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
