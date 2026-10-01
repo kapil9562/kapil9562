@@ -63,7 +63,7 @@ modern, responsive and scalable applications.
 <table>
 <tr>
 
-<td width="50%" align="center">
+<td width="50%" align="center" valign="top">
 
 <h3>💬 Zenviq – AI Chat App</h3>
 
@@ -72,22 +72,20 @@ Real-time chat application with AI assistant, private & group messaging,
 online/offline presence, encrypted messages and friend system.
 </p>
 
-<!-- 📸 Preview Image -->
 <img
   src="./screenshots/zenviq.png"
   alt="Zenviq Chat App Preview"
-  width="100%"
+  width="420"
+  height="236"
 />
 
-<br/><br/>
-
+<p>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white"/>
 <img src="https://img.shields.io/badge/AI-8B5CF6?style=flat-square&logo=google&logoColor=white"/>
-
-<br/><br/>
+</p>
 
 <a href="https://zenviq-in.onrender.com" target="_blank">
 <img src="https://img.shields.io/badge/🚀%20Live%20Demo-2563EB?style=for-the-badge"/>
@@ -95,7 +93,7 @@ online/offline presence, encrypted messages and friend system.
 
 </td>
 
-<td width="50%" align="center">
+<td width="50%" align="center" valign="top">
 
 <h3>🌐 Portfolio</h3>
 
@@ -103,19 +101,17 @@ online/offline presence, encrypted messages and friend system.
 Personal developer portfolio showcasing my skills, projects and development journey.
 </p>
 
-<!-- 📸 Preview Image -->
 <img
   src="./screenshots/portfolio.png"
   alt="Portfolio Preview"
-  width="100%"
+  width="420"
+  height="236"
 />
 
-<br/><br/>
-
+<p>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-
-<br/><br/>
+</p>
 
 <a href="https://kapil-adhikari.onrender.com" target="_blank">
 <img src="https://img.shields.io/badge/🚀%20Live%20Demo-2563EB?style=for-the-badge"/>
@@ -127,7 +123,7 @@ Personal developer portfolio showcasing my skills, projects and development jour
 
 <tr>
 
-<td width="50%" align="center">
+<td width="50%" align="center" valign="top">
 
 <h3>🛒 Avenza Store</h3>
 
@@ -136,20 +132,18 @@ Full-stack e-commerce platform with authentication, products, cart,
 wishlist and checkout flow.
 </p>
 
-<!-- 📸 Preview Image -->
 <img
   src="./screenshots/avenza-store.png"
   alt="Avenza Store Preview"
-  width="100%"
+  width="420"
+  height="236"
 />
 
-<br/><br/>
-
+<p>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-
-<br/><br/>
+</p>
 
 <a href="https://myavenza.onrender.com" target="_blank">
 <img src="https://img.shields.io/badge/🛍️%20Live%20Demo-7C3AED?style=for-the-badge"/>
@@ -157,7 +151,7 @@ wishlist and checkout flow.
 
 </td>
 
-<td width="50%" align="center">
+<td width="50%" align="center" valign="top">
 
 <h3>⚙️ Avenza Admin</h3>
 
@@ -165,20 +159,18 @@ wishlist and checkout flow.
 Admin dashboard for managing products, inventory, users and application data.
 </p>
 
-<!-- 📸 Preview Image -->
 <img
   src="./screenshots/avenza-admin.png"
   alt="Avenza Admin Preview"
-  width="100%"
+  width="420"
+  height="236"
 />
 
-<br/><br/>
-
+<p>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-
-<br/><br/>
+</p>
 
 <a href="https://myavenza-admin.onrender.com" target="_blank">
 <img src="https://img.shields.io/badge/⚡%20Live%20Demo-06B6D4?style=for-the-badge"/>
